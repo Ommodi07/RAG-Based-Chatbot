@@ -1,5 +1,5 @@
-import RightComponent from "./rightComponent";
-import LeftComponent from "./leftComponent";
+import RightComponent from "./rightcomponent";
+import LeftComponent from "./leftcomponent";
 
 const Chatbot = () => {
     return (
