@@ -3,7 +3,7 @@ import LeftComponent from "./leftcomponent";
 
 const Chatbot = () => {
     return (
-        <div className="flex w-full h-screen p-4 space-x-4">
+        <div className="flex w-full h-screen space-x-4 bg-black">
             <RightComponent />
             <LeftComponent />
         </div>
