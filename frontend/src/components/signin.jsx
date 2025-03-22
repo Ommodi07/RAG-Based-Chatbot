@@ -12,6 +12,9 @@ const Signin = () => {
                 <div className="flex justify-center items-center w-full">
                     <button type="submit" className="h-10 bg-blue-500 rounded-md w-full">Submit</button>
                 </div>
+                <div>
+                    <p className="text-white">Don't have account? <a href="/signup">signup</a></p>
+                </div>
             </div>
         </>
     )
